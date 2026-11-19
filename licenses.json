@@ -1,0 +1,15 @@
+{
+  "app_name": "Al-Saeed Tech Ortho",
+  "latest_version": "1.0.0",
+  "force_update": false,
+  "download_url": "https://github.com/Elsaeedsoft/alsaeed-ortho-control/releases",
+  "release_notes": "الإصدار المستقر الأول - نظام السعيد تيك لإدارة عيادات تقويم الأسنان.",
+  "max_offline_days": 30,
+  "revoked_devices": [
+    "AST-0000-0000-0000"
+  ]
+}
+
+GitHub (https://github.com/Elsaeedsoft/alsaeed-ortho-control/releases)
+Releases · Elsaeedsoft/alsaeed-ortho-control
+Contribute to Elsaeedsoft/alsaeed-ortho-control development by creating an account on GitHub.
